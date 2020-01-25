@@ -4,3 +4,4 @@ This field is a challenging topic in computer vision. It requires to detect all 
 - Scene Understanding - <a href="https://paperswithcode.com/task/scene-understanding">Papers With Code</a>
 ## Papers
 - <a href="https://hci.stanford.edu/publications/2015/scenegraphs/JohnsonCVPR2015.pdf">Image Retrieval using Scene Graphs</a>
+- <a href="">NODIS: Neural Ordinary Differential Scene Understanding</a>
