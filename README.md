@@ -5,3 +5,4 @@ This field is a challenging topic in computer vision. It requires to detect all 
 ## Papers
 - <a href="https://hci.stanford.edu/publications/2015/scenegraphs/JohnsonCVPR2015.pdf">Image Retrieval using Scene Graphs</a>
 - <a href="https://arxiv.org/pdf/2001.04735.pdf">NODIS: Neural Ordinary Differential Scene Understanding</a>
+## Image Recognition
